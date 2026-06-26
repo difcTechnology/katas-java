@@ -28,6 +28,7 @@ public class Kata7 {
             System.out.printf("IVA (19%%): $%.0f%n",IVA);
             System.out.println(total);
             suma +=total;
+            System.out.print("¿Agregar otro producto? (S/N): ");
             respuesta=sc.next();
         }while(respuesta.equalsIgnoreCase("S"));
         System.out.printf("Total de la compra: $%.0f%n",suma);
