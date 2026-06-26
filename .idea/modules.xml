@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Kata01/Kata01.iml" filepath="$PROJECT_DIR$/Kata01/Kata01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kata02/Kata02.iml" filepath="$PROJECT_DIR$/Kata02/Kata02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kata_3_Calculadora_Pedidos_Iva/Kata_3_Calculadora_Pedidos_Iva.iml" filepath="$PROJECT_DIR$/Kata_3_Calculadora_Pedidos_Iva/Kata_3_Calculadora_Pedidos_Iva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kata_4_Validador_Horarios/Kata_4_Validador_Horarios.iml" filepath="$PROJECT_DIR$/Kata_4_Validador_Horarios/Kata_4_Validador_Horarios.iml" />
       <module fileurl="file://$PROJECT_DIR$/katas-java.iml" filepath="$PROJECT_DIR$/katas-java.iml" />
     </modules>
   </component>
